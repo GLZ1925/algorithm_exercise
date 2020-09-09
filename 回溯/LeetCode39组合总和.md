@@ -1,4 +1,5 @@
 # 组合总和
+## 1.题目描述
 给定一个**无重复元素**的数组 candidates 和一个目标数 target ，找出 candidates 中所有可以使数字和为 target 的组合。
 
 candidates 中的数字可以无限制重复被选取。
@@ -28,8 +29,10 @@ candidates 中的数字可以无限制重复被选取。
 
 提示：
 
-<li>1 <= candidates.length <= 30
-<li>1 <= candidates[i] <= 200
-<li>candidate 中的每个元素都是独一无二的。
-<li>1 <= target <= 500
+<li>1 <= candidates.length <= 30</li>
+<li>1 <= candidates[i] <= 200</li>
+<li>candidate 中的每个元素都是独一无二的。</li>
+<li>1 <= target <= 500</li>
 
+## 2.解题思路
+![](..\pic\39.jpg)
