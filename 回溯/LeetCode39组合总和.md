@@ -35,4 +35,4 @@ candidates 中的数字可以无限制重复被选取。
 <li>1 <= target <= 500</li>
 
 ## 2.解题思路
-![](..\pic\39.jpg)
+![](https://github.com/GLZ1925/algorithm_exercise/blob/master/pic/39.jpg)
